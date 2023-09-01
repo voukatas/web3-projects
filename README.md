@@ -9,7 +9,7 @@ To get started with these projects, you'll need:
 
 1. Node.js and npm installed on your machine.
 2. A code editor like VSCode.
-3. MetaMask or another web3 provider set up in your browser.
+3. MetaMask or another web3 provider set up in your browser. This will allow you to interact with the Ethereum blockchain. Make sure to set your MetaMask wallet to the Sepolia test network for certain projects like MoodContract.
 
 Clone the repository and navigate into the project directory of your choice, then install the dependencies:
 
@@ -23,3 +23,6 @@ Sepolia Testnet Tokens
 If you're working on the Sepolia testnet, you may need some testnet ETH to deploy contracts or interact with existing ones. You can request Sepolia testnet tokens from the following faucets:
 - [Sepolia Faucet](https://sepoliafaucet.com/)
 - [QuickNode Sepolia Faucet](https://faucet.quicknode.com/ethereum/sepolia)
+
+# Demo Projects
+1. **MoodContract**: A smart contract that allows users to set and share their mood. Check out the demo [here](https://voukatas.github.io/web3-projects/MoodContract/).
