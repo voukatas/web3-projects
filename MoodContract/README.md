@@ -2,6 +2,8 @@
 
 This decentralized application (dApp) allows users to set and get a "mood" string on the Ethereum blockchain. It uses Ethers.js to interact with a smart contract deployed on the Sepolia testnet.
 
+Check out the demo [here](https://voukatas.github.io/web3-projects/MoodContract/).
+
 ## Prerequisites
 
 - Node.js and npm
